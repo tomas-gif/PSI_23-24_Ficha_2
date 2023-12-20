@@ -5,6 +5,7 @@ Cria um repositório **privado** no GitHub com o nome **"PSI_Ficha_2"** e com um
 Preenche o **README** localmente com as respostas dos exercícios, e seguidamente, faz ***push*** das atualizações.
 
 Para entregar a ficha, acede a [este link](https://docs.google.com/spreadsheets/d/1DrdGnICVAA8q9bs9_LAURFKoReAO7jJGB8qqvUWacL0/edit?usp=sharing), e mete o **URL** do teu repositório ao lado do teu nome.
+No teu repositório, acede a "Settings -> Collaborators" e adiciona o utilizador "manuelgeraldes00" para ter acesso.
 
 ## Exercício 1 - Responde às seguintes questões (5v)
 
